@@ -28,12 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View](./images/desktop-view.jpg)
-![Mobile View](./images/mobile-view.jpg)
+![desktop-view](./images/desktop-view.jpg)
+![mobile-view](./images/mobile-view.jpg)
 
 ### Links
 
 - Solution URL: [https://github.com/MrRyt247/advice-generator-app_fm](https://github.com/MrRyt247/advice-generator-app_fm)
+- - Live URL: [https://advicegeneratorapp-fm.onrender.com](https://advicegeneratorapp-fm.onrender.com)
 
 ## My process
 
